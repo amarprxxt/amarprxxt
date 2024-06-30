@@ -6,11 +6,12 @@
 
 ### <div align="center">Hey there! I am Amarpreet Singh, a pre-final year student at National Institute of Technology (NIT) Rourkela.</div>  
   
+-Live Deployed Links of my Projects are : 
 
-- 🔭 I’m currently working on [Room-Rental](https://github.com/aaryancodeshere/Room-Rental)  
+- 🔭 [AI Image Generator App](https://github.com/amarprxxt/ai-image-gen) - https://ai-image-generator-amarpreet.netlify.app/
   
 
-- 🌱 I’m currently learning Backend Development.  
+- 🌱 [Web Music Player App](https://github.com/amarprxxt/ai-image-gen) - https://web-music-app-amarpreet.netlify.app/  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
