@@ -8,11 +8,11 @@
   
 -Live Deployed Links of my Projects are : 
 
-- 🔭 [AI Image Generator App](https://github.com/amarprxxt/ai-image-gen) - https://ai-image-generator-amarpreet.netlify.app/
-  
+- 🔭 [AI Image Generator App](https://github.com/amarprxxt/ai-image-gen) - Live Link : https://ai-image-generator-amarpreet.netlify.app/
+   (FULL STACK project - Generates creative images from prompts given - Has a community feature where people shares their unique creative images.)
 
-- 🌱 [Web Music Player App](https://github.com/amarprxxt/ai-image-gen) - https://web-music-app-amarpreet.netlify.app/  
-  
+- 🌱 [Web Music Player App](https://github.com/amarprxxt/ai-image-gen) - Live Link : https://web-music-app-amarpreet.netlify.app/  
+  (A Dynamic and Responsive User Interface Web Application to Play Musics)
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
@@ -73,14 +73,11 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/aaryancodeshere" target="_blank">
+<a href="https://github.com/amarprxxt" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/aryan-raj-378561251" target="_blank">
+<a href="https://www.linkedin.com/in/amarpreetsinghh/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_aaryanraj" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
