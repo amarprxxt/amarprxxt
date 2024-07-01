@@ -11,7 +11,7 @@
 - 🔭 [AI Image Generator App](https://github.com/amarprxxt/ai-image-gen) - Live Link : https://ai-image-generator-amarpreet.netlify.app/
    (FULL STACK project - Generates creative images from prompts given - Has a community feature where people shares their unique creative images.)
 
-- 🌱 [Web Music Player App](https://github.com/amarprxxt/ai-image-gen) - Live Link : https://web-music-app-amarpreet.netlify.app/  
+- 🌱 [Web Music Player App](https://github.com/amarprxxt/musicplayer) - Live Link : https://web-music-app-amarpreet.netlify.app/  
   (A Dynamic and Responsive User Interface Web Application to Play Musics)
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
