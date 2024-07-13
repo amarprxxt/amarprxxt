@@ -8,6 +8,10 @@
   
 -Live Deployed Links of my Projects are : 
 
+- 🔭 [SAC Permissions DashBoard](https://github.com/amarprxxt/sacpermission) - Live Link : https://sac-permissions.netlify.app/
+   (FULL STACK project - to solve my college problem - Students can get permissions hassle-free, on-Time,
+without any Paperwork for organizing Fests, Events from SAC Authorities.)
+
 - 🔭 [AI Image Generator App](https://github.com/amarprxxt/ai-image-gen) - Live Link : https://ai-image-generator-amarpreet.netlify.app/
    (FULL STACK project - Generates creative images from prompts given - Has a community feature where people shares their unique creative images.)
 
